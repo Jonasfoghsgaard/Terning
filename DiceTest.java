@@ -37,9 +37,12 @@ public class DiceTest {
         assertTrue(9600<array[3]&&array[3]<10400);
         assertTrue(9600<array[4]&&array[4]<10400);
         assertTrue(9600<array[5]&&array[5]<10400);
-        // Stavo
-        // Aslon
+        // Aslan
+        // Gustav
+        // Lasse
         // Frederik
+        // Bob
+        
         
         
         
