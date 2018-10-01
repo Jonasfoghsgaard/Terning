@@ -38,6 +38,7 @@ public class DiceTest {
         assertTrue(9600<array[4]&&array[4]<10400);
         assertTrue(9600<array[5]&&array[5]<10400);
         //Lasse
+        //Sersan
     }
 
 
