@@ -13,7 +13,6 @@
 // 2. The program rolls the dice one time less than asked
 // 3. The dice is not symetric. It will roll too few ones and six'es
 
-
 package terning;
 
 import java.util.Scanner;
@@ -28,6 +27,7 @@ public class UseDice {
 		int n = keyboard.nextInt();  // Read integer
 		cup.rollMultiple(n);         // Roll the dice n times
 		keyboard.close();            // Close the scanner
+		//Jonas vil du være min?
 	}
 }
 
